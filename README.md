@@ -74,3 +74,11 @@ Follow the steps below to run the application on your local machine:
    ```bash
      npm run dev
    ```
+
+### How the webiste works:
+![Screenshot 2024-11-27 181703](https://github.com/user-attachments/assets/48bfa8cf-2c0a-4798-96a7-9b008bfcec8a)
+![Screenshot 2024-11-27 181654](https://github.com/user-attachments/assets/ddcd605b-73c0-4258-82ad-42d24ee59895)
+![Screenshot 2024-11-27 181629](https://github.com/user-attachments/assets/97fd2ba6-5891-49a9-81d0-781d5e1199d5)
+![Screenshot 2024-11-27 181623](https://github.com/user-attachments/assets/e4639004-b85c-4079-ba05-b5fa6c323439)
+
+
